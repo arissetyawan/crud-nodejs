@@ -1,6 +1,4 @@
 We Will be using:
-
-We'll be using:
 * postgres for database
 * knex.js for database migrations, seeds and queries.
 * express.js for routes and rendering
